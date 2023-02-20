@@ -1,0 +1,16 @@
+h3 {
+    text-transform:uppercase;
+}
+
+p {
+    font-family:Arial;
+}
+
+body {
+    background-color:AliceBlue;
+}
+
+a {
+    font-size:16px;
+    font-style:italic;
+}
