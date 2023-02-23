@@ -1,0 +1,35 @@
+h3 {
+    text-transform:uppercase;
+}
+
+p {
+    font-family:Arial;
+}
+
+body {
+    background-image:url("https://plopdo.com/wp-content/uploads/2021/03/Networking-cover.png");
+}
+
+a {
+    font-size:16px;
+    font-style:italic;
+}
+
+iframe {
+    height:600px;
+    width:100%;
+}
+
+.header {
+    border-style:solid;
+}
+
+.content {
+    background-color:AliceBlue;
+    height:80%;
+    width:70%;
+}
+
+.footer {
+    background-color:AliceBlue;
+}
